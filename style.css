@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+}
+
+button{
+    border-color: white;
+    border-radius: 13px;
+    padding: 10px;
+    font-size: 3rem;
+    margin-inline: 20px;
+    background-color: #00809D;
+    color: #FFD700;
+    box-shadow: 10px 10px;
+}
+
+button:hover{
+    background-color: #FFD700;
+    color: #00809D;
+    box-shadow: 15px 15px;
+}
